@@ -15,6 +15,6 @@ This is a **responsive** and **animated** web page designed using **HTML** and *
 - CSS Transitions and Animations
 
 ## 🌍 Live Preview
-🔗 [View the Site Here](https://-deployment-link.com)
+🔗https://darsana-ramesh.github.io/online-course-platform/
 
 
